@@ -4,8 +4,6 @@ pip install sulekha_holtwinters
 
 Author: Sulekha Aloorravi 
 
-Email: sulekha.aloorravi@gmail.com 
-
 Package: sulekha_holtwinters 
 
 This package is to forecast timeseries on a Spark Dataframe using Holt winters Forecasting model.
